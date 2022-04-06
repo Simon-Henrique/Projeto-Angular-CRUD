@@ -1,0 +1,5 @@
+backend/db-crud/node_modules
+frontend/.angular
+frontend/.vscode
+frontend/dist
+frontend/node_modules

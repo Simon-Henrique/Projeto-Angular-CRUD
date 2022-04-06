@@ -1,0 +1,13 @@
+.sidenav {
+    background-color: rgb(221, 95, 57);
+    width: 200;
+}
+.sidenav i { /*icone com espaçamento à direita*/
+    padding-right: 10px; 
+}
+
+.content {
+    padding: 16px; /*padding em todas as direções*/
+    background-color: rgb(133, 136, 136);
+    
+}

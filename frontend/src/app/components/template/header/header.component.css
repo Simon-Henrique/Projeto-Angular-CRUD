@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+  
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none; /*sem decoração no link, ex: sublinhado ou colorido*/
+    color:#fff
+}
+
+.header .logo {
+    max-height:60px ; /*altura máxima*/
+}
+.header .title-group {/*espaçamento referente ao logo*/
+    padding-left: 25px;
+}
+.header .title-group i{ /*espaçamento á direita do icone*/
+    padding-right: 5px;
+}

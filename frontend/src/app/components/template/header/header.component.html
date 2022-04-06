@@ -1,0 +1,15 @@
+<mat-toolbar class="header mat-elevation z10">
+    <span>  
+        <a routerLink="/">
+            <img src="/assets/img/logo-simon-transparente-pequeno.png" class="logo" alt="logo">
+        </a>
+    </span>
+    <span class="title-group">
+        <a routerLink="{{routeUrl}}">
+            <i class="material-icons"> <!--elemento i semelhante a um destaque-->
+                {{icon}} <!--icone-->
+            </i>
+            {{title}} <!--título-->
+        </a>
+    </span>
+</mat-toolbar>

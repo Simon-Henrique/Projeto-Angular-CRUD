@@ -1,0 +1,10 @@
+.home .title {
+    font-size: 3rem; /*a medida rem, é relativa ao tamanho padrao, neste caso 3x tamanho*/
+    font-weight: 300; /*peso da fonte*/
+    line-height: 1.2; /*altura da linha*/
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
+    
+}
