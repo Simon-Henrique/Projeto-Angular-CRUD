@@ -1,2 +1,2 @@
 # projeto-angular-crud
-projeto de um sistema crud feito inteiramente em angular
+https://simon-crud.netlify.app/
